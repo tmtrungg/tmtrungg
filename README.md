@@ -1,23 +1,8 @@
-# Hi, I'm Trung
+# Hi, I'm  Minh Trung Tran
 
 PhD student in Computer Science at RMIT University (Melbourne), researching ML and blockchain security — focused on large-scale DeFi fraud detection using ML models and LLM multi-agents.
 
 Previously Software/ML Engineer building fraud detection systems and real-time trading infrastructure. Valedictorian of CS at Deakin University (First Class Honours, GPA 4.0).
-
-## What I'm Working On
-
-- PhD research on DeFi transaction pattern extraction and anomaly detection
-- [**JobSignal**](https://github.com/tmtrungg/JobSignal) — LinkedIn job monitor with Telegram push notifications
-- [**SLID**](https://github.com/tmtrungg/SLID-sourcecode) — Sign Language Image Detection using deep learning
-
-## Publications
-
-<!-- Add your papers here as they get published -->
-| Paper | Venue | Year |
-|-------|-------|------|
-| Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain Scams | arXiv:2503.04850 (under review) | 2025 |
-| Adaptive detection of DeFi SLID scam: A data-driven framework for Large Scale DeFi Security | AISC 2026 | 2026 |
-| Chargeback fraud detection on Anonymized Merchant data: An industry case study | AISC 2026 | 2026 |
 
 ## Featured Projects
 
@@ -29,6 +14,15 @@ Previously Software/ML Engineer building fraud detection systems and real-time t
 | [Plant-to-Earn](https://github.com/tmtrungg/Web3-Plant-To-Earn) | Solidity, JavaScript | Blockchain-based game with smart contracts |
 | [RL Solutions](https://github.com/tmtrungg/Reinforcement-Learning-solutions-built) | Python, Jupyter | Q-learning, SARSA, and policy gradient implementations |
 | [Room Intruder Detection](https://github.com/tmtrungg/Room-Intruder-Detection-System) | C++, IoT | Sensor-based intruder detection system |
+
+## Publications
+
+<!-- Add your papers here as they get published -->
+| Paper | Venue | Year |
+|-------|-------|------|
+| Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain Scams | arXiv:2503.04850 (under review) | 2025 |
+| Adaptive detection of DeFi SLID scam: A data-driven framework for Large Scale DeFi Security | AISC 2026 | 2026 |
+| Chargeback fraud detection on Anonymized Merchant data: An industry case study | AISC 2026 | 2026 |
 
 ## Tech Stack
 
