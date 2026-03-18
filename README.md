@@ -12,8 +12,6 @@ Previously Software/ML Engineer building fraud detection systems and real-time t
 | [COVID-19 O2 Detection](https://github.com/tmtrungg/CoVID-19-Oxygen-Deprivation-Quick-Detection-system) | Python, OpenCV, ML | Real-time oxygen deprivation detection for early screening |
 | [Nursing Home System](https://github.com/tmtrungg/Concurrency-Nursing-Home-Administration-System) | C++ | Multi-threaded administration system using concurrency primitives |
 | [Plant-to-Earn](https://github.com/tmtrungg/Web3-Plant-To-Earn) | Solidity, JavaScript | Blockchain-based game with smart contracts |
-| [RL Solutions](https://github.com/tmtrungg/Reinforcement-Learning-solutions-built) | Python, Jupyter | Q-learning, SARSA, and policy gradient implementations |
-| [Room Intruder Detection](https://github.com/tmtrungg/Room-Intruder-Detection-System) | C++, IoT | Sensor-based intruder detection system |
 
 ## Publications (so far)
 
