@@ -8,6 +8,7 @@ Previously Software/ML Engineer building fraud detection systems and real-time t
 
 | Project | Tech | Description |
 |---------|------|-------------|
+| [LocalOverleaf](https://github.com/tmtrungg/LocalOverleaf) | Bash, LaTeX, Make | Lightweight local LaTeX compiler with versioned PDF output — an offline alternative to Overleaf |
 | [JobSignal](https://github.com/tmtrungg/JobSignal) | Python, SQLite, Telegram API | Automated LinkedIn job monitoring with push notifications |
 | [COVID-19 O2 Detection](https://github.com/tmtrungg/CoVID-19-Oxygen-Deprivation-Quick-Detection-system) | Python, OpenCV, ML | Real-time oxygen deprivation detection for early screening |
 | [Nursing Home System](https://github.com/tmtrungg/Concurrency-Nursing-Home-Administration-System) | C++ | Multi-threaded administration system using concurrency primitives |
