@@ -1,6 +1,6 @@
 # Hi, I'm  Minh Trung Tran
 
-PhD student in Computer Science at RMIT University (Melbourne), researching ML and blockchain security — focused on large-scale DeFi fraud detection using ML models and LLM multi-agents.
+PhD student in Computer Science at RMIT University (Melbourne), researching ML and blockchain security, focusing on large-scale DeFi fraud detection using ML models and LLM multi-agents.
 
 Previously Software/ML Engineer building fraud detection systems and real-time trading infrastructure. Valedictorian of CS at Deakin University (First Class Honours, GPA 4.0).
 
