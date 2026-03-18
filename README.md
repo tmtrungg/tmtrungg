@@ -15,13 +15,12 @@ Previously Software/ML Engineer building fraud detection systems and real-time t
 | [RL Solutions](https://github.com/tmtrungg/Reinforcement-Learning-solutions-built) | Python, Jupyter | Q-learning, SARSA, and policy gradient implementations |
 | [Room Intruder Detection](https://github.com/tmtrungg/Room-Intruder-Detection-System) | C++, IoT | Sensor-based intruder detection system |
 
-## Publications
+## Publications (so far)
 
 <!-- Add your papers here as they get published -->
 | Paper | Venue | Year |
 |-------|-------|------|
-| Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain Scams | arXiv:2503.04850 (under review) | 2025 |
-| Adaptive detection of DeFi SLID scam: A data-driven framework for Large Scale DeFi Security | AISC 2026 | 2026 |
+| Adaptive detection of DeFi SLID scam: A data-driven framework for Large Scale DeFi Security (Best Paper Award) | AISC 2026 | 2026 |
 | Chargeback fraud detection on Anonymized Merchant data: An industry case study | AISC 2026 | 2026 |
 
 ## Tech Stack
