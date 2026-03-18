@@ -1,12 +1,23 @@
 # Hi, I'm Trung
 
-Software Engineer based in Melbourne, Australia. I build tools and systems with Python, C++, and JavaScript — focused on automation, machine learning, and backend engineering.
+PhD student in Computer Science at RMIT University (Melbourne), researching ML and blockchain security — focused on large-scale DeFi fraud detection using ML models and LLM multi-agents.
+
+Previously Software/ML Engineer building fraud detection systems and real-time trading infrastructure. Valedictorian of CS at Deakin University (First Class Honours, GPA 4.0).
 
 ## What I'm Working On
 
-- [**JobSignal**](https://github.com/tmtrungg/JobSignal) — LinkedIn job monitor that sends Telegram alerts for new postings. Multi-user, anti-detection, SQLite dedup.
+- PhD research on DeFi transaction pattern extraction and anomaly detection
+- [**JobSignal**](https://github.com/tmtrungg/JobSignal) — LinkedIn job monitor with Telegram push notifications
 - [**SLID**](https://github.com/tmtrungg/SLID-sourcecode) — Sign Language Image Detection using deep learning
-- [**Capriole Research**](https://github.com/tmtrungg/Capriole_CodeSubmit) — Quantitative data analysis for Capriole Investments
+
+## Publications
+
+<!-- Add your papers here as they get published -->
+| Paper | Venue | Year |
+|-------|-------|------|
+| Slow is Fast! Dissecting Ethereum's Slow Liquidity Drain Scams | arXiv:2503.04850 (under review) | 2025 |
+| Adaptive detection of DeFi SLID scam: A data-driven framework for Large Scale DeFi Security | AISC 2026 | 2026 |
+| Chargeback fraud detection on Anonymized Merchant data: An industry case study | AISC 2026 | 2026 |
 
 ## Featured Projects
 
@@ -21,11 +32,10 @@ Software Engineer based in Melbourne, Australia. I build tools and systems with 
 
 ## Tech Stack
 
-**Languages:** Python, C++, JavaScript, Solidity, SQL\
-**ML/Data:** scikit-learn, OpenCV, pandas, Jupyter, Reinforcement Learning\
-**Backend:** SQLite, REST APIs, threading, Linux\
-**Tools:** Git, Raspberry Pi, Docker, Telegram Bot API\
-**Web3:** Solidity, Smart Contracts
+**Languages:** Python, SQL, TypeScript, Solidity, R\
+**ML/Data:** PyTorch, scikit-learn, XGBoost, pandas, NumPy, HuggingFace, Ollama\
+**Infrastructure:** PostgreSQL, MongoDB, Redis, Docker, AWS EC2, FastAPI\
+**Other:** Git, Linux, System Design, Telegram Bot API
 
 ## Connect
 
